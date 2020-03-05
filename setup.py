@@ -13,7 +13,7 @@ def read(filename):
 
 setup(
     name="django-version",
-    version="1.0.rc1",
+    version="1.0.0",
     packages=["django_version"],
     author="NyanKiyoshi",
     author_email="hello@vanille.bid",
